@@ -1,7 +1,10 @@
 {
   "name": "angular-bind-html-compile",
   "version": "1.2.1",
-  "dependencies": {},
+  "dependencies": {
+    "angular": ">= 1.2"
+  },
+  "main": "angular-bind-html-compile.js",
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-jshint": "~0.10.0",
